@@ -1,0 +1,34 @@
+.container{
+    margin-bottom: 50px ;
+}
+#header{
+    background-color: #E5E5E5;
+}
+.green-btn{
+    border: none;
+    border-radius: 25px;
+    background-color: #21B573;
+    padding: 9px 33px;
+}
+
+#mid-section .card .card-body{
+    padding: 50px;
+}
+#mid-section .card{
+    border: none;
+
+}
+#online-course .card{
+    border: none;
+}
+
+.card .card-body .seat{
+    margin-left: 30px;
+}
+#footer-last{
+    background-color: #282531;
+    color: white;
+}
+#footer-last li{
+    list-style: none;
+}
